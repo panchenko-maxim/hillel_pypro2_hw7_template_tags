@@ -1,0 +1,8 @@
+body {
+    background-color: grey;
+}
+
+.tag {
+    font-weight: bold;
+    display: inline;
+}
